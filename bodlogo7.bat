@@ -1,0 +1,1 @@
+C:\Users\Turmandakh\Documents\GitHub\Uildliin-system\bin\runapp.cmd

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Uildliin-system:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Uildliin_system_jar</output-path>
+    <root id="archive" name="Uildliin-system.jar">
+      <element id="module-output" name="Uildliin-system" />
+    </root>
+  </artifact>
+</component>
